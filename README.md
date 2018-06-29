@@ -1,4 +1,5 @@
 # translate
+该项目基于springboot开发
 读者 将百度翻译接口所申请得到的信息，请自行替换TranslateUtil.java中 appid 与 securityKey
 
 ```java
